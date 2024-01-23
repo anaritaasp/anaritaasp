@@ -7,13 +7,13 @@
 
 <h3 align="center">Here you can find some projects that I've developed during my Bachelor's:.</h3>
 
-### [Operating Systems](https://github.com/anaritaasp/sistemas-operativos)
+#### [Operating Systems](https://github.com/anaritaasp/sistemas-operativos)
 
-### [Artificial Intelligence](https://github.com/anaritaasp/RaceVector)
+#### [Artificial Intelligence](https://github.com/anaritaasp/RaceVector)
 
-### [Distributed Systems](https://github.com/anaritaasp/TrotiUM)
+#### [Distributed Systems](https://github.com/anaritaasp/TrotiUM)
 
-### [Language Processing](https://github.com/anaritaasp/PL-projetofinal)
+#### [Language Processing](https://github.com/anaritaasp/PL-projetofinal)
 
 
 
