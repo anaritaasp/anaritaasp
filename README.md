@@ -17,7 +17,7 @@
 
 <h4 align="center">Some projects that I've developed during my Master's:.</h4>
 
-#### [Dados e Aprendizagem Automática](https://github.com/anaritaasp/Trabalho-DAA-2023-2024).
+#### [Dados e Aprendizagem Automática](https://github.com/anaritaasp/Trabalho-DAA-2023-2024)
 
 
 
