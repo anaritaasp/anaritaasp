@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ana Rita</h1>
-<h3 align="center">I've finished my Bachelor's degree in Software Engineering @ Universidade do Minho and I'm currently taking my Master's Degree in Software Engineering @ Universidade do Minho.</h3>
+<h4 align="center">I've finished my Bachelor's degree in Software Engineering @ Universidade do Minho and I'm currently taking my Master's Degree in Software Engineering @ Universidade do Minho.</h4>
 
 
 <h3 align="left">Languages and Tools:</h3>
